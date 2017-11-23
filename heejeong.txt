@@ -1,1 +1,2 @@
-hi
+Hello Git!
+I'm HeeJeong
